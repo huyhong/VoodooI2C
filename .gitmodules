@@ -19,3 +19,6 @@
 [submodule "VoodooI2C Satellites/VoodooI2CAtmelMXT"]
 	path = VoodooI2C Satellites/VoodooI2CAtmelMXT
 	url = https://github.com/coolstar/VoodooI2CAtmelMXT
+[submodule "VoodooI2C Satellites/VoodooI2CGoodix"]
+	path = VoodooI2C Satellites/VoodooI2CGoodix
+	url = https://github.com/lazd/VoodooI2CGoodix

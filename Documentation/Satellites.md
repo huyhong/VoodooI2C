@@ -28,6 +28,10 @@ VoodooI2CFTE implements support for the propriety FTE protocol found on the FTE1
 
 VoodooI2CAtmelMXT implements support for the propriety Atmel Multitouch Protocol.
 
+## [VoodooI2CGoodix](https://github.com/lazd/VoodooI2CGoodix)
+
+VoodooI2CGoodix implements support for the Goodix GT911 touchscreen.
+
 ## VoodooI2CUPDDEngine
 
 VoodooI2CUPDDEngine acts as a middleman between VoodoI2C and the Touch Base UPDD drivers. For more information, read the instructions in the [VoodooI2CUPDDEngine Repo](https://github.com/blankmac/VoodooI2CUPDDEngine).
