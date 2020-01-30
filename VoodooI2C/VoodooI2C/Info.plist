@@ -525,6 +525,9 @@
 				<string>pci8086,a369</string>
 				<string>pci8086,a36a</string>
 				<string>pci8086,a36b</string>
+				<string>pci8086,a324</string>
+				<string>pci8086,a36f</string>
+				<string>pci8086,a379</string>
 			</array>
 			<key>IOProbeScore</key>
 			<integer>9999</integer>
